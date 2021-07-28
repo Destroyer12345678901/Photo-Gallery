@@ -1,0 +1,27 @@
+#pictureMenu {
+    height: 2000;
+    width: 2000;
+}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color: midnightblue;
+    color: yellow;
+}
+
+.link {
+    font-family: cursive;
+    font-size: 20px;
+    color: yellow;
+}
+
+.img2 {
+    height: 500;
+    width: 500;
+    background-color: aliceblue;
+}
+img-responsive{
+height: 350;
+    
+}
